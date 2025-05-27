@@ -34,7 +34,7 @@
 *.bcf
 *.synctex(busy)
 *.synctex.gz(busy)
-
+*.bbl-SAVE-ERROR
 
 
 # PDF files
